@@ -75,6 +75,16 @@ let BinanceTokens={
   {
     "chainId": 56,
     "type": "ERC20",
+    "address": "0x55818Be03e5103e74f96dF7343Dd1862A6d215f2",
+    "name": "Bidenia",
+    "symbol": "BIE",
+    "decimals": 8,
+    "logoURI": "https://i.ibb.co/9GP6X1R/bidenia-Token.png"
+    
+  }, 
+  {
+    "chainId": 56,
+    "type": "ERC20",
     "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
     "name": "Binance-Peg Cardano Token",
     "symbol": "ADA",
